@@ -195,20 +195,4 @@ Feel free to fork the project, create a feature branch, and submit a pull reques
 
 ## License
 
-This project is licensed under the MIT License.
-
----
-
-## Developer
-
-**Govinda Herath**
-
-* GitHub: https://github.com/govindasathruwan
-* LinkedIn: https://www.linkedin.com/in/govindaherath/
-
----
-
-⭐ If you find **Hirely** useful, consider giving the repository a star!
-
-🔗 **GitHub Repository:**
-https://github.com/govindasathruwan/AI_Resume_Analyser-Hirely-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
